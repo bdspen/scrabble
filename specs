@@ -1,0 +1,7 @@
+1: Set the value of one to a single letter.
+Input: a
+Output: 1
+
+2: Set the value of one to "A, E, I, O, U, L, N, R, S, T".
+Input: "A, E, I, O, U, L, N, R, S, T"
+Output: 1
